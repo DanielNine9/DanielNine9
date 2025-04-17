@@ -23,7 +23,17 @@ I'm a dedicated full-stack developer with a passion for crafting innovative solu
 
 
 
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielnine9&show_icons=true&theme=dark&locale=en)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=danielnine9&show_icons=true&theme=dark&locale=en&layout=compact)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danielnine9&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=danielnine9&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+
+</div>
 
 
 
