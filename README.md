@@ -45,3 +45,18 @@ I'm a dedicated full-stack developer with a passion for crafting innovative solu
 I'm always open to collaborating on projects and innovative ideas. Feel free to reach out if you'd like to discuss technology, share knowledge, or work together!
 
 <div align="center"> <em>“The beautiful thing about learning is that nobody can take it away from you.” - B.B. King</em> </div>
+
+
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
+
+
+
+<!-- Visit Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
