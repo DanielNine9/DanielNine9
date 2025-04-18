@@ -1,5 +1,8 @@
 <div align="center">
 
+# Leetcode
+![Leetcode Stats](https://leetcard.jacoblin.cool/dqhuyy?ext=heatmap&theme=nord)
+
 # 👋 Hi, I'm Dinh Quoc Huy
 
 ### Full-stack Developer | Problem Solver | Continuous Learner
