@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Dinh Quoc Huy
 
-### Full-stack Developer | Problem Solver | Continuous Learner
+### Full-stack Developer 
 
 _"Code is like a puzzle: every error is a clue to a better solution."_ 🚀
 
