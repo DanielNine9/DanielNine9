@@ -9,9 +9,9 @@
 
 _"Code is like a puzzle: every error is a clue to a better solution."_ 🚀
 
-[LinkedIn] • (https://www.linkedin.com/in/dinh-huy-80514b2b5/)
-[LeetCode] • (https://leetcode.com/u/dqhuyy/)
-[Facebook] • (https://www.facebook.com/dihhyun)
+[LinkedIn](https://www.linkedin.com/in/dinh-huy-80514b2b5/) •
+[LeetCode](https://leetcode.com/u/dqhuyy/) •
+[Facebook](https://www.facebook.com/dihhyun)
 
 </div>
 
