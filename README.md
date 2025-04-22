@@ -21,13 +21,29 @@ I'm a dedicated full-stack developer with a passion for crafting innovative solu
 ## 💻 Technologies
 
 ### Frontend
-<p align="left"> <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/></a> <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a><a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"/></a><a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></a> <a href="https://material-ui.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/></a> </p>
+<p align="left">
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactjs"/></a>
+  <a href="https://angular.io" target="_blank"><img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></a>
+  <a href="https://material-ui.com/" target="_blank"><img src="https://img.shields.io/badge/Material_UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="materialui"/></a>
+</p>
 
 ### Backend
-<p align="left"> <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/></a> <a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs"/></a> <a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://img.shields.io/badge/Django%20REST-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django-rest-framework"/></a> </p>
+<p align="left">
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="springboot"/></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs"/></a>
+  <a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://img.shields.io/badge/Django_REST-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django-rest-framework"/></a>
+</p>
 
 ### Database
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a> <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a> <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a> </p>
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="sqlserver"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/></a>
+</p>
 
 ## 📊 GitHub Stats
 
