@@ -13,7 +13,11 @@ _"Code is like a puzzle: every error is a clue to a better solution."_ 🚀
 [LeetCode](https://leetcode.com/u/dqhuyy/) •
 [Facebook](https://www.facebook.com/dihhyun)
 
+![Profile Views](https://komarev.com/ghpvc/?username=danielnine9&label=Profile%20views&color=0e75b6&style=flat-square)
+
 </div>
+
+
 
 ## 🚀 About Me
 I'm a dedicated full-stack developer with a passion for crafting innovative solutions and bringing ideas to life through code. I thrive on tackling complex challenges, continuously honing my skills, and embracing the ever-evolving world of technology. Whether it's building seamless user interfaces or optimizing backend systems, I approach every project with curiosity and a commitment to excellence.
