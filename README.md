@@ -9,13 +9,12 @@
 
 _"Code is like a puzzle: every error is a clue to a better solution."_ 🚀
 
-[LinkedIn](https://www.linkedin.com/in/dinh-huy-80514b2b5/) •
-[LeetCode](https://leetcode.com/u/dqhuyy/) •
-[Facebook](https://www.facebook.com/dihhyun)
-
-![Profile Views](https://komarev.com/ghpvc/?username=danielnine9&label=Profile%20views&color=0e75b6&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinh-huy-80514b2b5/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/dqhuyy/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/dihhyun)
 
 </div>
+
 
 
 
@@ -83,3 +82,6 @@ I'm always open to collaborating on projects and innovative ideas. Feel free to 
   
   [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=danielnine9&label=Profile%20views&color=0e75b6&style=flat-square)
+
